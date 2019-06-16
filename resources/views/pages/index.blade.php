@@ -5,7 +5,7 @@
 @section('main-content')
 
   <h2 class="text-center">Ordered Listing</h2>
-  <div class="card-deck">
+  <div class="row justify-content-between">
 
     @foreach($products as $product)
       @include('templates.productCard')

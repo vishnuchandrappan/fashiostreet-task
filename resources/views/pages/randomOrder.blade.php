@@ -6,7 +6,7 @@
 
   <h2 class="text-center">Random Listing</h2>
 
-  <div class="row justify-content-center">
+  <div class="row justify-content-between">
 
     @foreach($products as $product)
       @include('templates.productCard')

@@ -19,7 +19,7 @@
         <a class="nav-link" href="/">Random Listing 1</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="/">Random Listing 2</a>
+        <a class="nav-link" href="/random">Random Listing 2</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="/index">Ordered Listing</a>

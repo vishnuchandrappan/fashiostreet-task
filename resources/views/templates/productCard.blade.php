@@ -1,4 +1,4 @@
-<div class="col-sm-3">
+<div class="col-sm-2 card-curved">
   <img src="/images/{{ $product->image }}" class="card-img-top" alt="{{ $product->image }}">
   <div class="card-body">
     <h5 class="card-title">{{ $product->name }}</h5>
